@@ -1,11 +1,12 @@
-## Ola! 👋
-# 👋 Olá, eu sou [Seu Nome]!
+# 👋 Olá, eu sou Pedro Henrique!
 
 ## 🚀 Minhas Estatísticas
 
 ![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroHenriqueRolimCordeiro&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueRolimCordeiro&layout=compact&theme=radical)
+
+<!--
 **PedroHenriqueRolimCordeiro/PedroHenriqueRolimCordeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
